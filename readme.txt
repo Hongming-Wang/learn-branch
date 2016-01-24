@@ -1,2 +1,3 @@
 I am now learing how to deal with branch.
 After add dev branch...
+Creating a new branch is quich AND simple.
